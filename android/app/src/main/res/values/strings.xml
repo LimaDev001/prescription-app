@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">RxFlow</string>
+    <string name="title_activity_main">RxFlow</string>
+    <string name="package_name">com.rxflow.app</string>
+    <string name="custom_url_scheme">com.rxflow.app</string>
+</resources>
